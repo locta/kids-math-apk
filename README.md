@@ -1,10 +1,10 @@
 # 小小数学家
 
-[ **Download Latest APK / 下载最新版** ](https://github.com/locta/kids-math-apk/releases/latest)
+[ **Download Latest APK / 下载最新版** ](https://github.com/locta/kids-math-apk/releases/download/v1.0.0/KidsMath-v1.0.0.apk)
 
-Version: 首次发布准备中
+Version: 1.0.0
 
-Updated: —
+Updated: 2026-10-04
 
 ![扫码打开最新版下载页面](download-qr.png)
 

@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "appName": "小小数学家",
+  "applicationId": "com.family.kidsmath",
+  "versionName": "1.0.0",
+  "versionCode": 1000001,
+  "tag": "v1.0.0",
+  "fileName": "KidsMath-v1.0.0.apk",
+  "publishedAt": "2026-10-04T17:40:55+00:00",
+  "sha256": "5d1c9ab7482d69bbc5db6b4aed230b2b05b1d2cddb186ef9c5c2955606d22979",
+  "sizeBytes": 3850145,
+  "signingCertificateSha256": "3c7c7174409ebd1ffa7e7cc5b366d716ec01022874396ed67ab901ccce0540e0",
+  "downloadUrl": "https://github.com/locta/kids-math-apk/releases/download/v1.0.0/KidsMath-v1.0.0.apk",
+  "releaseUrl": "https://github.com/locta/kids-math-apk/releases/tag/v1.0.0"
+}
